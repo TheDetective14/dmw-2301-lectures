@@ -19,6 +19,8 @@ dependencies:
   - sqlalchemy=2.0.45
   - html5lib=1.1
   - python-dotenv=1.2.1
+  - gdown=5.2.1
+  - nltk=3.9.3
   - pip:
     - jupyter-contrib-nbextensions
     - ipywidgets==8.1.8
